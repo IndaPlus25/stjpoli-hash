@@ -1,0 +1,8 @@
+01, potatoes, 8kr
+02, tamatoes, 10kr
+03, onions, 6kr
+04, avocadoes, 25kr
+05, bannanas, 30kr
+07, letus, 16kr
+88, letus, 16kr
+88, letus, 16kr
